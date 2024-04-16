@@ -1,0 +1,1 @@
+# script_delete_knowledge-base_Servicenow
